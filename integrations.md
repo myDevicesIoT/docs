@@ -1,4 +1,5 @@
 # Supported Integrations
+ - Webhook (HTTP)
  - Azure IoT Hub
  - Azure Service Bus
  - Azure Event Hubs
