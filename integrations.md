@@ -1,11 +1,11 @@
 # Supported Integrations
- - [Webhook (HTTP)])(https://iotinabox.zendesk.com/hc/en-us/articles/360006568974-Webhooks)
+ - [Webhook (HTTP)](https://iotinabox.zendesk.com/hc/en-us/articles/360006568974-Webhooks)
  - [Azure IoT Hub](https://iotinabox.zendesk.com/hc/en-us/articles/360048504933-Azure-IoT-Hub)
  - Azure Service Bus
  - [Azure Event Hubs](https://iotinabox.zendesk.com/hc/en-us/articles/360015381874-Azure-Event-Hubs)
  - Azure Storage
  - Azure IoT Central
- - [PowerBI] (https://iotinabox.zendesk.com/hc/en-us/articles/360021441713-Power-BI)
+ - [PowerBI](https://iotinabox.zendesk.com/hc/en-us/articles/360021441713-Power-BI)
  - Amadeus HotSOS
  - [ARM Treasure Data](https://iotinabox.zendesk.com/hc/en-us/articles/360012056153-Treasure-Data-CDP)
  - [AWS Kinesis](https://iotinabox.zendesk.com/hc/en-us/articles/360017970133-AWS-Kinesis)
