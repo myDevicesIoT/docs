@@ -1,25 +1,25 @@
 # Supported Integrations
- - Webhook (HTTP)
- - Azure IoT Hub
+ - [Webhook (HTTP)])(https://iotinabox.zendesk.com/hc/en-us/articles/360006568974-Webhooks)
+ - [Azure IoT Hub](https://iotinabox.zendesk.com/hc/en-us/articles/360048504933-Azure-IoT-Hub)
  - Azure Service Bus
- - Azure Event Hubs
+ - [Azure Event Hubs](https://iotinabox.zendesk.com/hc/en-us/articles/360015381874-Azure-Event-Hubs)
  - Azure Storage
  - Azure IoT Central
- - PowerBI
+ - [PowerBI] (https://iotinabox.zendesk.com/hc/en-us/articles/360021441713-Power-BI)
  - Amadeus HotSOS
- - ARM Treasure Data
- - AWS Kinesis
- - AWS S3
- - AWS SQS
- - Google PubSub
- - Google BigQuery
+ - [ARM Treasure Data](https://iotinabox.zendesk.com/hc/en-us/articles/360012056153-Treasure-Data-CDP)
+ - [AWS Kinesis](https://iotinabox.zendesk.com/hc/en-us/articles/360017970133-AWS-Kinesis)
+ - [AWS S3](https://iotinabox.zendesk.com/hc/en-us/articles/360013248234-Amazon-AWS-S3)
+ - [AWS SQS](https://iotinabox.zendesk.com/hc/en-us/articles/360017510094-Amazon-AWS-SQS)
+ - [Google PubSub](https://iotinabox.zendesk.com/hc/en-us/articles/360013247754-Google-Pub-Sub)
+ - [Google BigQuery](https://iotinabox.zendesk.com/hc/en-us/articles/360017883034-Google-BigQuery)
  - Google Storage
- - Google Sheets
- - Slack
- - Discord
- - Salesforce
- - PagerDuty
- - Zendesk
+ - [Google Sheets](https://iotinabox.zendesk.com/hc/en-us/articles/360018574894-Google-Sheets)
+ - [Slack](https://iotinabox.zendesk.com/hc/en-us/articles/360013338893-Slack)
+ - [Discord](https://iotinabox.zendesk.com/hc/en-us/articles/360015338573-Discord)
+ - [Salesforce](https://iotinabox.zendesk.com/hc/en-us/articles/360006569294-Salesforce)
+ - [PagerDuty](https://iotinabox.zendesk.com/hc/en-us/articles/360015394193-PagerDuty)
+ - [Zendesk](https://iotinabox.zendesk.com/hc/en-us/articles/360015338553-ZenDesk)
  
 ## Example Payloads
  - [Uplink Event JSON](#example-uplink-event-json)
